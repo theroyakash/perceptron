@@ -59,7 +59,3 @@ class Perceptron(object):
     
     def predict(self, X):
         return np.where(self.net_input(X) >= 0.0, 1, -1)
-
-
-
-
