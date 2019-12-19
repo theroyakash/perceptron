@@ -1,6 +1,7 @@
-"""	Coding in UTF8
+"""
+Coding in UTF8
 
-	Design of a Artificial Perceptron using Numpy
+Design of a Artificial Perceptron using Numpy
 	
     Documentation:
     	Parameters:
