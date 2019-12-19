@@ -28,10 +28,10 @@ X : {array-like}, shape = [n_samples, n_features].
   n_features is the number of features.
         
 y : array-like, shape = [n_samples] Target values.
-        
-Returns 
--------
-self : object
+
+    Returns 
+    -------
+    self : object
 ----------------------------------------------------------------------------------------------------------------
 ## Requirements: 
 Numpy.
