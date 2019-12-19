@@ -8,8 +8,9 @@ Fork or Clone for any Commercial or personal use.
 ## Requirements: 
 Numpy
 ## Installation
-[] Open terminal / cmd
+- Open terminal / cmd
+- Copy paste this following line of code
 
 ```
-pip3 instal numpy
+pip3 install numpy
 ```
